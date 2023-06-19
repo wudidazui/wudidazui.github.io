@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1873],{50389:e=>{e.exports=JSON.parse('{"title":"Sentry","slug":"/category/sentry","permalink":"/base/category/sentry","navigation":{"previous":{"title":"ScreenRecording","permalink":"/base/ScreenRecording/"},"next":{"title":"Sentry","permalink":"/base/Sentry/"}}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4424],{23987:e=>{e.exports=JSON.parse('{"title":"404\u9875\u9762","slug":"/category/404\u9875\u9762","permalink":"/components/category/404\u9875\u9762","navigation":{"previous":{"title":"Otp","permalink":"/components/Otp/"},"next":{"title":"Page404","permalink":"/components/Page404/"}}}')}}]);

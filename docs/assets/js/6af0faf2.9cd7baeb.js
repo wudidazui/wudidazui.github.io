@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3110],{80823:e=>{e.exports=JSON.parse('{"title":"pdf","slug":"/category/pdf","permalink":"/components/category/pdf","navigation":{"previous":{"title":"PopupTopDown","permalink":"/components/Modal/PopupTopDown"},"next":{"title":"OpenPdf","permalink":"/components/OpenPdf/"}}}')}}]);

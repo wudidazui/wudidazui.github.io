@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>个金组件库文档 Blog</title>
-        <link>https://samonxian.github.io/website/build/index.html/website/build/index.html/blog</link>
+        <link>http://10.10.34.214:8080/blog</link>
         <description>个金组件库文档 Blog</description>
         <lastBuildDate>Mon, 27 Jun 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>zh-Hans</language>
         <item>
             <title><![CDATA[React 组件文档方案]]></title>
-            <link>https://samonxian.github.io/website/build/index.html/website/build/index.html/blog/react-doc-starter</link>
+            <link>http://10.10.34.214:8080/blog/react-doc-starter</link>
             <guid>react-doc-starter</guid>
             <pubDate>Mon, 27 Jun 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[React Doc Starter 适合组内或者部门内沉淀前端项目的业务组件和业务 Utilis。]]></description>

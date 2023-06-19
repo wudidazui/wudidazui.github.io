@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://samonxian.github.io/website/build/index.html/website/build/index.html/blog</id>
+    <id>http://10.10.34.214:8080/blog</id>
     <title>个金组件库文档 Blog</title>
     <updated>2022-06-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://samonxian.github.io/website/build/index.html/website/build/index.html/blog"/>
+    <link rel="alternate" href="http://10.10.34.214:8080/blog"/>
     <subtitle>个金组件库文档 Blog</subtitle>
-    <icon>https://samonxian.github.io/website/build/index.html/website/build/index.html/img/favicon.ico</icon>
+    <icon>http://10.10.34.214:8080/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[React 组件文档方案]]></title>
         <id>react-doc-starter</id>
-        <link href="https://samonxian.github.io/website/build/index.html/website/build/index.html/blog/react-doc-starter"/>
+        <link href="http://10.10.34.214:8080/blog/react-doc-starter"/>
         <updated>2022-06-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[React Doc Starter 适合组内或者部门内沉淀前端项目的业务组件和业务 Utilis。]]></summary>
         <content type="html"><![CDATA[<p><strong>React Doc Starter 适合组内或者部门内沉淀前端项目的业务组件和业务 Utilis。</strong></p><p><code>React Doc Starter</code> 是基于 facebook <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">docusaurus 2</a>，详细的用法可以查看官方文档。</p><p>结合业务组件和 Utils 类库开发的流程，提供一套可直接使用的 React 组件库和 Utils 类库开发解决方案。</p><p>目前组件和 Uitls 使用 <code>vite</code> 进行打包，只需要简单的配置即可实现打包。</p><p><strong>Node 版本要求 &gt;= v16，目前根据注释生成的文档不支持国际化的场景，国际化的场景需要根据 docusaurus 文档手动编写文档。</strong></p><h2 class="anchor anchorWithStickyNavbar_JmGV" id="starter-带来了哪些便利">Starter 带来了哪些便利？<a class="hash-link" href="#starter-带来了哪些便利" title="标题的直接链接">​</a></h2><p>Starter 解决了 <code>docusaurus</code> 的 4 点问题：</p><ol><li><code>docusaurus</code> 支持 mdx，所以 md 文件可以直接使用 React 组件，但是还需要手动 import 组件。</li><li><code>docusaurus</code> 没有直接支持组件展示和代码展示一起的用法（一般上方是例子，下方可选查看点前例子代码）。</li><li><code>docusaurus</code> 文档需要手动编写</li><li><code>docusaurus</code> 没有提供组件开发一条龙的解决方案</li></ol><h2 class="anchor anchorWithStickyNavbar_JmGV" id="注意事项">注意事项<a class="hash-link" href="#注意事项" title="标题的直接链接">​</a></h2><p>其中 <code>packages/components</code> 和 <code>packages/utils</code> 是固定的命名，如果有需要自定义的需要，

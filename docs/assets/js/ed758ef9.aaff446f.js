@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5928],{99376:e=>{e.exports=JSON.parse('{"title":"cache","description":"cache","slug":"/category/cache","permalink":"/utils/category/cache","navigation":{"previous":{"title":"uuid","permalink":"/utils/uuid/"},"next":{"title":"setDaysCache","permalink":"/utils/cache/setDaysCache"}}}')}}]);

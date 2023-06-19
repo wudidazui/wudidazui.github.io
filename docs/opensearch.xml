@@ -4,8 +4,8 @@
   <ShortName>个金组件库文档</ShortName>
   <Description>Search 个金组件库文档</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://samonxian.github.io/website/build/index.html/website/build/index.html/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://samonxian.github.io/website/build/index.html/website/build/index.html/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://samonxian.github.io/website/build/index.html/website/build/index.html/opensearch.xml" />
-  <moz:SearchForm>https://samonxian.github.io/website/build/index.html/website/build/index.html/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">http://10.10.34.214:8080/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="http://10.10.34.214:8080/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="http://10.10.34.214:8080/opensearch.xml" />
+  <moz:SearchForm>http://10.10.34.214:8080/</moz:SearchForm>
 </OpenSearchDescription>
