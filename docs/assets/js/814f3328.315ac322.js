@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"React \u7ec4\u4ef6\u6587\u6863\u65b9\u6848","permalink":"/website/build/index.html/blog/react-doc-starter"}]}')}}]);
